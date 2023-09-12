@@ -1176,6 +1176,9 @@ border: 7px solid var(--hover-color);
     background-color:#12f7ff13;
     cursor: pointer;
     transition: .4s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    }
 
    .box__color.link__pro{
@@ -1268,4 +1271,8 @@ border: 7px solid var(--hover-color);
     color: #3f3e3e;
     font-weight: bold;
 
+}
+
+.web__app__img{
+    width: 120px;
 }
