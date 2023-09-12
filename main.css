@@ -1150,7 +1150,9 @@ border: 7px solid var(--hover-color);
     align-items: center;
     gap: 20px;
     z-index: 1;
-    color: #fff;
+    color: var(--hover-color);
+    font-weight: bold;
+    font-size: 20px;
    }
    .box{
     background-color: red;
