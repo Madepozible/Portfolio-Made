@@ -1279,3 +1279,7 @@ border: 7px solid var(--hover-color);
 .web__app__img{
     width: 120px;
 }
+
+#home_img{
+    width: 100px;
+}
